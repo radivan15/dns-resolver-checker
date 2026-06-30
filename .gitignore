@@ -1,0 +1,14 @@
+# Build output
+dns-checker
+dns-checker.exe
+/bin/
+
+# Go test/build artifacts
+*.test
+*.out
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
